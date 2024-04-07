@@ -1,0 +1,27 @@
+Question 1
+Which of the following are true about requirements and specifications?
+A. Specifications shall meet the requirements.
+B. Requirements are for users; specifications are for developers.
+C. Requirements shall be written in the user's language; system specifications shall be written in the system language.
+D. Requirements call for specification-level refinement.
+
+Answer : A, B, C
+
+Question 2
+The following are the requirements and specifications of an online banking service.
+ Which of the following can be categorized as (user) requirements?  Select two.
+A.At the time a query is made to check the current balance of a checking account, the owner of the checking account shall be logged in.
+B.The user shall be able to check the current balance of the checking accounts that he/she own.
+C.Activate a login session when a user logs in, and maintain the session for 60 minutes unless the user who logged in had remained inactive for more than 120 seconds.
+D. A user shall be able to use the online banking system securely.
+
+Answer : B, D
+
+Question 3
+The following are requirements and specifications of an online banking service. Which of the following can be categorized as system specifications?  Select two.
+A.At the time a query is made to check the current balance of a checking account, the owner of the checking account shall be logged in.
+B.The user shall be able to check the current balance of the checking accounts that he/she own.
+C.Activate a login session when a user logs in, and maintain the session for 60 minutes unless the user who logged in had remained inactive for more than 120 seconds.
+D. A user shall be able to use the online banking system securely.
+
+Answer: A, C

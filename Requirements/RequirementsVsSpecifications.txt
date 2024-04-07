@@ -1,0 +1,28 @@
+User Requirements:
+=================
+    Users want the system to be secure to only allow them to sya, post to linkedin on their behalf.
+
+System Specifications:
+======================
+    Logging in is the system specification. The system specification is usally constraining statement of how 
+the system will meet the user requirements.
+
+Example:
+======
+
+User Requirement:
+================
+One person must be able to load the boat on the car.
+
+System Specification:
+====================
+1. Boat must be lighter than 45kgs.
+2. Boat must have handles.
+3. Car rack must be padded(boat slides onto rock easily)
+
+Requirements and Specifications:
+================================
+-> Requirements are for users; specifications are for developers.
+-> Requirements shall be written in the user's language; system specifications shall be written in the system language.
+-> Write your requirements in the user language.
+-> Write your system specifications in the system language.
