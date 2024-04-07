@@ -1,0 +1,34 @@
+Building a house:
+================
+
+Phase 1: Buyer meets builder to specify needs.
+
+Phase 2: Requirements gathering
+
+Phase 3: Home layout design
+
+Phase 4: Home detail design
+
+Phase 5: Build house
+
+Phase 6: Local city approval
+
+Phase 7: Home Inspection with Buyer
+
+Phase 8: Buyer starts living in the house
+
+Phase 9: Mainenance of house
+
+
+Building a software:
+===================
+
+Phase 1: Requirement analysis 
+
+Phase 2: Architecture [HLD, LLD]
+
+Phase 3: Implementation
+
+Phase 4: Verification [Integration testing]
+
+Phase 5: Operation and Mainenance

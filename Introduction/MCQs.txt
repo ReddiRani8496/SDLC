@@ -1,0 +1,13 @@
+1. Software development model can be best respond to Requirements changes?
+**Answer:** Agile software development model
+
+2. In which of the following software development models are the software development activities
+performed sequentially rather than iterations?
+**Answer:** Waterfall model
+
+3.Limitations of Waterfall model?
+**Answer** It is difficult to respond to requirements changes
+           Integration issues may remain undetected until the last Phase
+           MisInterpretations of requirements or design can remain undetected until the later development phases.
+           
+            

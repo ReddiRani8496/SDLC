@@ -1,0 +1,7 @@
+SDLC:
+----
+
+SDLC stands for Software Development Life Cycle.
+The software development lifecycle (SDLC) outlines several tasks required to build a software application. 
+The development process goes through several stages as developers add new features and fix bugs in the software.
+
