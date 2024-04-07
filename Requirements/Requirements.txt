@@ -1,0 +1,32 @@
+-> Building a software is difficult than building dams, rocket ships, becuase these are tangible,
+we can identify whether they met the  requirements or not. 
+But when it comes to software development, we cannot see the results until after the but building software requires understanding of the abstract
+
+
+What is requirement?
+===================
+It is actually two things
+
+1. Process:
+==========
+        The process by which we create our shared understanding of both the problem that exists and eventually
+the needs of our supposed solution which we want to build that will solve that problem.
+
+=> Create high-level descriptions
+=> Distinguish b/w right and wrong system
+=> Capture WHAT, not the HOW of the solution.
+
+2. Product: [Of that process]
+==========
+    The requirement specification is the documentation that we produce from that process.
+=> It could be informal understanding
+=> It could be statement of work
+=> It could be a formal software requirement specification, an SRS document.    
+
+
+Why are requirements specifications important?
+==========================================
+1. Engineering Argument -> if we don't follow the requirements, then there will be increase in cost of project.
+
+2. Economic Argument -> if there is a problem in software it will be costly to fix it.
+
