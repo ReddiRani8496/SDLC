@@ -1,0 +1,30 @@
+Non Functional Requirements:
+===========================
+    It will tell the system what to do rather than how to do.
+    These requirements are crucial for ensuring that the software meets the necessary standards and constraints beyond its basic functionality.
+
+Example:
+=======
+For example, a non-functional requirement might state that the system must be able to handle 1000 concurrent users without experiencing a significant decrease in performance. This requirement specifies the performance expectation
+ without dictating how the system should be engineered to achieve it.
+
+ Quiz:
+ ====
+
+Question 1
+A constraint to only use Microsoft Project during the system development is a non-functional requirement.
+True.
+False.
+
+Answer: True
+=====
+
+Question 2
+Which of the following are non-functional requirements:
+
+a.Some product requirements, like using a specific encryption protocol, are non-functional requirements.
+b. Organization requirements imposed by the company, like a specific coding style, are non-functional requirements.
+c. External requirements imposed by external organization, like using a specific development style, are non-functional requirements.
+d. All of the above.
+
+Answer: d
