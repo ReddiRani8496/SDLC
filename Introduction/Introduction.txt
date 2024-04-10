@@ -5,3 +5,16 @@ SDLC stands for Software Development Life Cycle.
 The software development lifecycle (SDLC) outlines several tasks required to build a software application. 
 The development process goes through several stages as developers add new features and fix bugs in the software.
 
+Why SDLC?
+---------
+If we construct a house or dam. If wall of the dam gets crack, then we can see and fix it.
+If the water is flowing in wrong direction, then we can fix it.
+But when it comes to software development, we cannot see the results until after the but building software.
+
+If we don't follow software methodologies then there will be huge loss on projects.
+
+Server:
+------
+Generally data is stored in server. 
+A server is a physical existance, where projects are deployed.
+There will be seperate team to deploy the projects in servers or cloud.
